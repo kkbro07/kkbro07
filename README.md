@@ -1,6 +1,4 @@
-Sure! Here's the updated version with your Gmail contact information:
 
----
 
 ### About Me
 
@@ -19,4 +17,4 @@ Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source ent
 
 #### Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kirtankalathiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** 21bmiit110@gmail.com
+- [Email](21bmiit110@gmail.com)
