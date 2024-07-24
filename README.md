@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @kkbro07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About Me
 
-<!---
-kkbro07/kkbro07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm kirtan kalathiya, a passionate software developer and open-source enthusiast. My primary interests include web development . . enjoy collaborating on innovative projects and continuously learning new technologies to enhance my skills.
+
+#### Skills & Technologies
+- **Languages:** [_Python,_C++]
+- **Frameworks**[React,Django,Node.js]
+- **Tools:** [Git,Docker,_Kubernetes]
+- **Databases:** [MySQL, PostgreSQL, MongoDB]
+
+#### Projects
+- [Clothing Store Management](link to repository): A brief description of what the project is about.
+- [Project Name](link to repository): Another brief description.
+
+#### Get in Touch
+- [LinkedIn](your LinkedIn profile link)
+- [Twitter](your Twitter profile link)
+
+---
+
+Feel free to customize this template to better match your experience and interests!
