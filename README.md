@@ -14,7 +14,7 @@ Hello! I'm kirtan kalathiya, a passionate software developer and open-source ent
 - [Project Name](link to repository): Another brief description.
 
 #### Get in Touch
-- [LinkedIn](your LinkedIn profile link)
+- [LinkedIn](https://www.linkedin.com/in/kirtankalathiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](your Twitter profile link)
 
 ---
