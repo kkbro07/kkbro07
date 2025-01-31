@@ -13,27 +13,6 @@ I am a **Full Stack Developer** specializing in **web development** and **scalab
 
 I am committed to **continuous learning, innovation, and delivering high-quality software** that drives business value.  
 
----
-
-## 🚀 Technical Skills  
-
-### 🔹 Programming Languages  
-✔ **Python** | **C++**  
-
-### 🔹 Web Development  
-✔ **React.js** | **Node.js** | **Django**  
-
-### 🔹 Databases  
-✔ **MySQL** | **PostgreSQL** | **MongoDB**  
-
-### 🔹 DevOps & Tools  
-✔ **Git** | **Docker** | **Kubernetes** | **CI/CD Pipelines**  
-
-### 🔹 Cloud & Infrastructure  
-✔ **AWS** | **Google Cloud** | **Azure**  
-
----
-
 ## 📈 GitHub Insights  
 
 <p align="center">
