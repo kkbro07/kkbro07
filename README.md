@@ -3,6 +3,9 @@
 ### About Me
 
 👋 Hi, I’m @kkbro07
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdesai28&label=Profile%20views&color=0e75b6&style=flat" alt="yashdesai28" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdesai28" alt="yashdesai28" /></a> </p>
 
 Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source enthusiast. My primary interest is in web development. I thrive on collaborating on innovative projects and continuously learning new technologies to enhance my skills.
 
