@@ -15,6 +15,12 @@ Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source ent
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdesai28&show_icons=true&locale=en&layout=compact" alt="yashdesai28" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdesai28&show_icons=true&locale=en" alt="yashdesai28" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdesai28&" alt="yashdesai28" /></p>
+
 #### Projects
 - [Clothing Store Management](https://github.com/kkbro07/cloth-shop.git): A comprehensive MERN Stack project for managing a clothing store.
 
