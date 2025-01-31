@@ -8,14 +8,14 @@
 
 Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source enthusiast. My primary interest is in web development. I thrive on collaborating on innovative projects and continuously learning new technologies to enhance my skills.
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
+
 #### Skills & Technologies
 - **Languages:** Python, C++
 - **Frameworks:** React, Django, Node.js
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
-
 
 
 
