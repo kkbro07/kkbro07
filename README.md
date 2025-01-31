@@ -6,8 +6,6 @@
 <h1 align="center">👋Hi,I'm kirtan kalathiya</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
-
 Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source enthusiast. My primary interest is in web development. I thrive on collaborating on innovative projects and continuously learning new technologies to enhance my skills.
 
 #### Skills & Technologies
@@ -15,6 +13,12 @@ Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source ent
 - **Frameworks:** React, Django, Node.js
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkbro07&show_icons=true&locale=en&layout=compact" alt="kirtan" /></p>
 
