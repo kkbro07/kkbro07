@@ -13,7 +13,7 @@ Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source ent
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 #### Projects
-- [Clothing Store Management](https://github.com/kkbro07/clothing_brand.git): A comprehensive MERN Stack project for managing a clothing store.
+- [Clothing Store Management](https://github.com/kkbro07/cloth-shop.git): A comprehensive MERN Stack project for managing a clothing store.
 
 #### Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kirtankalathiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
