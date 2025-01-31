@@ -4,6 +4,8 @@
 
 👋 Hi, I’m @kkbro07
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbro07&label=Profile%20views&color=0e75b6&style=flat" alt="kirtankalathiya" /> </p>
+<h1 align="center">Hi 👋, kirtan kalathiya</h1>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
 
