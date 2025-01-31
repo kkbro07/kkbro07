@@ -1,34 +1,57 @@
+<h1 align="center">👋 Hi, I'm Kirtan Kalathiya</h1>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkbro07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-### About Me
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbro07&label=Profile%20views&color=0e75b6&style=flat" alt="kirtankalathiya" /> </p>
-<h1 align="center">👋Hi,I'm kirtan kalathiya</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+### 👨‍💻 About Me
+Hello! I'm Kirtan Kalathiya, a passionate Full Stack Developer with a deep interest in web development and open-source contributions. I love working on innovative projects and continuously exploring new technologies to enhance my skills.
 
-Hello! I'm Kirtan Kalathiya, a passionate software developer and open-source enthusiast. My primary interest is in web development. I thrive on collaborating on innovative projects and continuously learning new technologies to enhance my skills.
+---
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbro07" alt="kirtan" /></a> </p>
-
-#### Skills & Technologies
+### 🛠️ Skills & Technologies
 - **Languages:** Python, C++
-- **Frameworks:** React, Django, Node.js
-- **Tools:** Git, Docker, Kubernetes
+- **Frameworks & Libraries:** React, Django, Node.js
+- **Tools & Platforms:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkbro07&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkbro07&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkbro07&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkbro07&show_icons=true&locale=en&layout=compact" alt="kirtan" /></p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kkbro07&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkbro07&show_icons=true&locale=en" alt="kirtan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkbro07&" alt="kkbro07" /></p>
+### 🚀 Projects
+- [👕 Clothing Store Management](https://github.com/kkbro07/cloth-shop.git) - A comprehensive MERN Stack project for managing a clothing store.
 
-#### Projects
-- [Clothing Store Management](https://github.com/kkbro07/cloth-shop.git): A comprehensive MERN Stack project for managing a clothing store.
+---
 
-#### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/kirtankalathiya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### 📫 Get in Touch
+- **LinkedIn:** [Kirtan Kalathiya](https://www.linkedin.com/in/kirtankalathiya)
 - **Email:** [21bmiit110@gmail.com](mailto:21bmiit110@gmail.com)
+
+---
+
+⭐ **Feel free to explore my repositories and contribute!**  
+🚀 **Let's build something amazing together!**
