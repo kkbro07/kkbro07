@@ -41,6 +41,8 @@ I am committed to **continuous learning, innovation, and delivering high-quality
 
 🔹 [**Clothing Store Management**](https://github.com/kkbro07/cloth-shop.git) – A **MERN Stack** project designed for efficient **clothing store management**, featuring product catalogs, order tracking, and user authentication.  
 
+🔹 [**Face Recognition System**](https://github.com/kkbro07/Face-Recognition) – A **deep learning-powered face recognition system** using **OpenCV**, **DeepFace**, and **SVM** for real-time identity verification and classification.
+
 ---
 
 ## 📬 Let's Connect  
@@ -51,4 +53,4 @@ I am committed to **continuous learning, innovation, and delivering high-quality
 
 ---
 
-⭐ **Passionate about creating impactful digital solutions. Let's collaborate!** 🚀  
+⭐ **Passionate about creating impactful digital solutions. Let's collaborate!** 🚀
