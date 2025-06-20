@@ -30,7 +30,6 @@ I'm a passionate **Full Stack Developer** focused on building **scalable web app
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
 
 ---
@@ -64,18 +63,6 @@ I'm a passionate **Full Stack Developer** focused on building **scalable web app
 | 🔷 [**Clothing Store Management**](https://github.com/kkbro07/cloth-shop.git) | MERN Stack app for managing products, orders, and users | React, Node, MongoDB, Express |
 | 🔶 [**Face Recognition System**](https://github.com/kkbro07/Face-Recognition) | Face detection & recognition using SVM + DeepFace + OpenCV | Python, OpenCV, DeepFace |
 | 🌐 [**Developer Portfolio**](https://github.com/kkbro07/portfolio) | Personal website built with Next.js and Tailwind | Next.js, Tailwind CSS |
-
----
-
-## 🌍 Visitors Around the World
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkbro07&theme=vue" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kkbro07/count.svg" />
-</p>
 
 ---
 
