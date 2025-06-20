@@ -1,56 +1,114 @@
-<h1 align="center">Kirtan Kalathiya</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Software Engineer</h3>
+<h1 align="center">🚀 Kirtan Kalathiya</h1>
+<h3 align="center">Full Stack Developer | Open Source Contributor | AI Enthusiast | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkbro07&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kkbro07&label=Profile%20Views&color=0e75b6&style=flat" alt="kkbro07" />
+  <img src="https://img.shields.io/github/followers/kkbro07?label=Follow&style=social" alt="followers"/>
+  <img src="https://img.shields.io/badge/Portfolio-%20kkbro07.vercel.app-%23008080?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I am a **Full Stack Developer** specializing in **web development** and **scalable software solutions**. Passionate about **open-source contributions**, I thrive on solving complex problems and building robust applications. My expertise spans across **frontend, backend, DevOps, and cloud technologies**.
+I'm a passionate **Full Stack Developer** focused on building **scalable web applications**, contributing to **open-source**, and applying **AI in real-world solutions**.
 
-I am committed to **continuous learning, innovation, and delivering high-quality software** that drives business value.  
+- 🔧 Specializing in **MERN Stack**, **Next.js**, **Tailwind**, **Python**, and **Deep Learning**
+- ☁️ Experience in **DevOps**, **Docker**, **CI/CD**, and cloud platforms like **Vercel**
+- 🧠 Love working on **AI-driven apps**, **face recognition**, and **developer tooling**
+- 📚 Advocate for **clean code**, **open collaboration**, and **growth mindset**
 
-## 📈 GitHub Insights  
+---
+
+## 🔥 Tech Stack
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkbro07&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkbro07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkbro07&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkbro07&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkbro07&show_icons=true&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkbro07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkbro07&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kkbro07&theme=flat&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 🚀 Featured Projects
 
-🔹 [**Clothing Store Management**](https://github.com/kkbro07/cloth-shop.git) – A **MERN Stack** project designed for efficient **clothing store management**, featuring product catalogs, order tracking, and user authentication.  
-🔹 [**Face Recognition System**](https://github.com/kkbro07/Face-Recognition) – A **deep learning-powered face recognition system** using **OpenCV**, **DeepFace**, and **SVM** for real-time identity verification and classification.
-
-
----
-
-## 📬 Let's Connect  
-
-📌 **LinkedIn:** [Kirtan Kalathiya](https://www.linkedin.com/in/kirtankalathiya)  
-📧 **Email:** [21bmiit110@gmail.com](mailto:21bmiit110@gmail.com)  
-🔗 **GitHub:** [kkbro07](https://github.com/kkbro07)  
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔷 [**Clothing Store Management**](https://github.com/kkbro07/cloth-shop.git) | MERN Stack app for managing products, orders, and users | React, Node, MongoDB, Express |
+| 🔶 [**Face Recognition System**](https://github.com/kkbro07/Face-Recognition) | Face detection & recognition using SVM + DeepFace + OpenCV | Python, OpenCV, DeepFace |
+| 🌐 [**Developer Portfolio**](https://github.com/kkbro07/portfolio) | Personal website built with Next.js and Tailwind | Next.js, Tailwind CSS |
 
 ---
 
-⭐ **Passionate about creating impactful digital solutions. Let's collaborate!** 🚀  in Featured Projects add https://github.com/kkbro07/Face-Recognition 
+## 🌍 Visitors Around the World
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkbro07&theme=vue" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kkbro07/count.svg" />
+</p>
+
+---
+
+## ✍️ Blog (Optional Integration)
+---
+
+## 📝 Latest Articles
+
+* [How I Built an AI-Powered Face Recognition App](link) – Dive into my journey of integrating OpenCV and Deep Learning for real-time identity verification.
+* [Optimizing Next.js Portfolios for Speed & SEO](link) – Proven tips and tricks I used to boost page performance and ranking in search.
+* [Getting Started with MERN: Deploying a Full‑Stack Clothing Store](link) – A step‑by‑step walkthrough from development to production deployment.
+
+---
+
+---
+
+## 📬 Let’s Connect!
+
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/kirtankalathiya)
+- ✉️ [**Email**](mailto:21bmiit110@gmail.com)
+- 🌐 [**Portfolio**](https://kkbro07.vercel.app)
+- 🧑‍💻 [**GitHub**](https://github.com/kkbro07)
+
+---
+
+## 📣 Call to Action
+
+> ⚡️ *I’m open to freelance gigs, remote roles, and collaborations in AI, Web, and Open Source.*  
+> 👨‍🚀 Let's create high-impact digital experiences together. Feel free to connect!
+
+---
+
+## 🙏 Support
+
+If you like my work, consider giving a ⭐ to one of my projects or sponsoring future development. It motivates me to contribute more!
+
