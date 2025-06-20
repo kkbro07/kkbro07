@@ -65,8 +65,6 @@ I'm a passionate **Full Stack Developer** focused on building **scalable web app
 | 🌐 [**Developer Portfolio**](https://github.com/kkbro07/portfolio) | Personal website built with Next.js and Tailwind | Next.js, Tailwind CSS |
 
 ---
-
-## ✍️ Blog (Optional Integration)
 ---
 
 ## 📝 Latest Articles
@@ -83,7 +81,7 @@ I'm a passionate **Full Stack Developer** focused on building **scalable web app
 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/kirtankalathiya)
 - ✉️ [**Email**](mailto:21bmiit110@gmail.com)
-- 🌐 [**Portfolio**](https://kkbro07.vercel.app)
+- 🌐 [**Portfolio**](https://kirtankalathiya.vercel.app/)
 - 🧑‍💻 [**GitHub**](https://github.com/kkbro07)
 
 ---
