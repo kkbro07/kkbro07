@@ -67,14 +67,6 @@ I'm a passionate **Full Stack Developer** focused on building **scalable web app
 ---
 ---
 
-## 📝 Latest Articles
-
-* [How I Built an AI-Powered Face Recognition App](link) – Dive into my journey of integrating OpenCV and Deep Learning for real-time identity verification.
-* [Optimizing Next.js Portfolios for Speed & SEO](link) – Proven tips and tricks I used to boost page performance and ranking in search.
-* [Getting Started with MERN: Deploying a Full‑Stack Clothing Store](link) – A step‑by‑step walkthrough from development to production deployment.
-
----
-
 ---
 
 ## 📬 Let’s Connect!
